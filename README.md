@@ -4,7 +4,7 @@
 - 👨‍🎓 Computer Science bachelor's degree at University of Padua in 2020
 - 🏬 Computer Science master degree student at University of Padua, with a focus on Artificial Intelligence and Machine Learning field
 - ✒️ Currently writing the master degree thesis named *"Prediction of football players' position using Data Mining and Machine Learning techniques"*
-- 💻 Looking for a job as Backend Developer, Frontend Developer and Machine Learning Engineer
+- 💻 Looking for a job as Backend Developer, Frontend Developer, Mobile Developer and Machine Learning Engineer
 - ⚽ Great football passionated
 - 🏃‍♂️ Occasional runner
 - 📚 Book reader
