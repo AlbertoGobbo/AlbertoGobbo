@@ -1,10 +1,9 @@
 ### Hi, I'm Alberto Gobbo 👋
 
 - 🌍 From Italy
-- 👨‍🎓 Computer Science bachelor's degree at University of Padua in 2020
-- 🏬 Computer Science master degree student at University of Padua, with a focus on Artificial Intelligence and Machine Learning field
-- ✒️ Currently writing the master degree thesis named *"Prediction of football players' position using Data Mining and Machine Learning techniques"*
-- 💻 Looking for a job as Backend Developer, Frontend Developer, Mobile Developer and Machine Learning Engineer
+- 👨‍🎓 Computer Science bachelor's degree at University of Padua in September 2020
+- 🏬 Computer Science master degree student at University of Padua in February 2023, with a focus on Artificial Intelligence field
+- 💻 Looking for work mainly as Backend Developer and Machine Learning Engineer, but not excluding roles like Frontend Developer and Mobile Developer 
 - ⚽ Great football passionated
 - 🏃‍♂️ Occasional runner
 - 📚 Book reader
